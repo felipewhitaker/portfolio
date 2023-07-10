@@ -1,0 +1,18 @@
+[submodule "digitalproductschool"]
+	path = digitalproductschool
+	url = https://github.com/felipewhitaker/digitalproductschool
+[submodule "neuralnetwork"]
+	path = neuralnetwork
+	url = https://github.com/felipewhitaker/neuralnetwork
+[submodule "mlopt"]
+	path = mlopt
+	url = https://github.com/felipewhitaker/mlopt
+[submodule "vai-conecta"]
+	path = vai-conecta
+	url = https://github.com/felipewhitaker/vai-conecta
+[submodule "timeseriespucrio"]
+	path = timeseriespucrio
+	url = https://github.com/felipewhitaker/timeseriespucrio
+[submodule "decision_and_risk_analysis"]
+	path = decision_and_risk_analysis
+	url = https://github.com/felipewhitaker/decision_and_risk_analysis
