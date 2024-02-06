@@ -15,7 +15,7 @@ The main subjects I have improved upon were:
 - Time Series Analysis
 - Deployment of Machine Learning Models
 
-You can access it [here](/digitalproductschool/)
+You can access it [here](./digitalproductschool/)
 
 ## Neural Networks for Precipitation Seasonal Forecasting Post Processing
 
@@ -26,7 +26,7 @@ I believe this is the most ambitious project I have developed yet, specially bec
 - Neural Networks
 - Bibliographic Research (on weather)
 
-You can access it [here](/neuralnetwork/)
+You can access it [here](./neuralnetwork/)
 
 ## Machine Learning Under a Modern Optimization Lens
 
@@ -37,7 +37,7 @@ The main subjects I have improved upon were:
 - Optimization
 - Combining Optimization and Machine Learning
 
-You can access it [here](/mlopt/)
+You can access it [here](./mlopt/)
 
 ## SKU level sales forecasting
 
@@ -49,7 +49,7 @@ The main subjects I have improved upon were:
 - Communication of Results
 - Data Storytelling
 
-You can access it [here](/vai-conecta/)
+You can access it [here](./vai-conecta/)
 
 ## Wind Speed Forecasting
 
@@ -60,7 +60,7 @@ The main subjects I have improved upon were:
 - Time Series Analysis
 - Technical Communication
 
-You can access it [here](/neuralnetwork/)
+You can access it [here](./neuralnetwork/)
 
 ## Maximum Coverage with Minimum Cost
 
@@ -73,7 +73,7 @@ The main subjects I have improved upon were:
 - Optimization
 - Geo visualization
 
-You can access it [here](/decision-and-risk-analysis/)
+You can access it [here](./decision-and-risk-analysis/)
 
 ## Epilogue
 
