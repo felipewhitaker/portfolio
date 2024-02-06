@@ -15,6 +15,8 @@ The main subjects I have improved upon were:
 - Time Series Analysis
 - Deployment of Machine Learning Models
 
+You can access it [here](/digitalproductschool/)
+
 ## Neural Networks for Precipitation Seasonal Forecasting Post Processing
 
 This project was developed for [Pontifical Catholic University of Rio de Janeiro](https://www.puc-rio.br/english/)'s master level Neural Networks class. It develops a post processing pipeline for precipitation numerical forecast for an area in Brazil, coordinates (-23.0, -54.0) and (-16.0, -46.0).
@@ -24,6 +26,8 @@ I believe this is the most ambitious project I have developed yet, specially bec
 - Neural Networks
 - Bibliographic Research (on weather)
 
+You can access it [here](/neuralnetwork/)
+
 ## Machine Learning Under a Modern Optimization Lens
 
 This repository is the result of a semester at a [PUC-Rio](https://www.puc-rio.br/index.html)'s course by the same name of the book [Machine Learning Under a Modern Optimization Lens](https://www.dynamic-ideas.com/books/machine-learning-under-a-modern-optimization-lens).
@@ -32,6 +36,8 @@ The main subjects I have improved upon were:
 
 - Optimization
 - Combining Optimization and Machine Learning
+
+You can access it [here](/mlopt/)
 
 ## SKU level sales forecasting
 
@@ -43,6 +49,8 @@ The main subjects I have improved upon were:
 - Communication of Results
 - Data Storytelling
 
+You can access it [here](/vai-conecta/)
+
 ## Wind Speed Forecasting
 
 This project was developed for [Pontifical Catholic University of Rio de Janeiro](https://www.puc-rio.br/english/)'s master level Time Series class. It compares different models - SARIMAX, VAR and Neural Networks - for wind speed forecasting.
@@ -51,6 +59,8 @@ The main subjects I have improved upon were:
 
 - Time Series Analysis
 - Technical Communication
+
+You can access it [here](/neuralnetwork/)
 
 ## Maximum Coverage with Minimum Cost
 
@@ -62,6 +72,8 @@ The main subjects I have improved upon were:
 
 - Optimization
 - Geo visualization
+
+You can access it [here](/decision-and-risk-analysis/)
 
 ## Epilogue
 
